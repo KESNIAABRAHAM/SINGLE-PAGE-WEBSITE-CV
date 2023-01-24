@@ -2,6 +2,9 @@ body{
     background-color: #FAF8F1;
     margin: 2.2rem;
 }
+h1 {
+  display: block;
+}
 Div#Resume {
     Min-Width: 310px;
     Font: 16px Helvetica, Avernir, Sans-Serif;
